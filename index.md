@@ -9,7 +9,7 @@
  * hasst Unordnung, alles muss korrekt auf seinem Platz stehen
  * ist Single und hat keine Kinder
  * ist immer korrekt gekleidet
- * hat noch jeden Fall gelöst
+ * hat noch jeden Fall geloest
  
 
 
