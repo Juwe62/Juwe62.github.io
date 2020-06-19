@@ -4,12 +4,12 @@
 
 ## Character Eigenschaften
 
- * Beruf: Detektiv
- * Geschlecht maennlich
- * hasst Unordnung, alles muss korrekt auf seinem Platz stehen
- * ist Single und hat keine Kinder
- * ist immer korrekt gekleidet
- * hat noch jeden Fall geloest
+* Beruf: Detektiv
+* Geschlecht maennlich
+* hasst Unordnung, alles muss korrekt auf seinem Platz stehen
+* ist Single und hat keine Kinder
+* ist immer korrekt gekleidet
+* hat noch jeden Fall geloest
  
 
 
