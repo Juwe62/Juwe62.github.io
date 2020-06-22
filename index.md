@@ -15,6 +15,10 @@
  Sein detektivisches Talent verdankt Poirot nach oft wiederholter Aussage:
 > seinen kleinen grauen Zellen
 
+
+<img src="https://pixabay.com/de/illustrations/hercule-poirot-figuren-menschen-1986535/">
+
+
  
 
 
