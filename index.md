@@ -16,7 +16,7 @@
 > seinen kleinen grauen Zellen
 
 
-<img src="https://pixabay.com/de/illustrations/hercule-poirot-figuren-menschen-1986535"/>
+<img src="http://showyourart.net.s3-website-eu-west-1.amazonaws.com/artObjects/1516/Hercule.jpg"/>
 
 
  
