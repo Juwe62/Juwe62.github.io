@@ -11,6 +11,10 @@
 * ist Single und hat keine Kinder
 * ist immer korrekt gekleidet
 * hat noch jeden Fall geloest
+
+ Sein detektivisches Talent verdankt Poirot nach oft wiederholter Aussage:
+> seinen kleinen grauen Zellen
+
  
 
 
