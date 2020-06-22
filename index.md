@@ -15,7 +15,6 @@
  Sein detektivisches Talent verdankt Poirot nach oft wiederholter Aussage:
 > seinen kleinen grauen Zellen
 
-
  
 
 
